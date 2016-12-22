@@ -36,4 +36,4 @@ bar@kali:~$ sudo ./NV-updatedb.sh
 [+] The databaseS is update!
 
 bar@kali:~$
-```sh
+```
