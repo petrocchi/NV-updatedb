@@ -3,13 +3,16 @@ Script for fast update the databases used from Nmap NSE Vulscan 2.0
 
 This script checks if the local database is updated, if isnt, update it, otherwise go to the next.
 
-# CONFIGURE:
+### CONFIGURE:
 If your path of vulscan.nse is different of /usr/share/nmap/scripts/vulscan/
 Edit NV-updatedb.sh and change your path.
 
+```sh
 NMAPPATH=/usr/share/nmap/scripts/vulscan/
+```
 
-# USE:
+### USE:
+```sh
 bar@kali:~$ sudo ./NV-updatedb.sh
 [+] Updatedb... (/usr/share/nmap/scripts/vulscan/)
 
@@ -33,4 +36,4 @@ bar@kali:~$ sudo ./NV-updatedb.sh
 [+] The databaseS is update!
 
 bar@kali:~$
-
+```sh
