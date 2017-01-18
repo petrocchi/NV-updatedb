@@ -4,8 +4,9 @@
 #
 # DATE:		21/12/2016
 # AUTHOR:	Luca Petrocchi
-# EMAIL:	petrocchi84@gmail.com
-# URL:		https://github.com/petrocch
+# EMAIL:	petrocchi@myoffset.me
+# WEBSITE	https://myoffset.me/
+# URL:		https://github.com/petrocchi
 #
 # DESCRIPTION:
 # Script for fast update the databases used from Nmap NSE Vulscan 2.0
